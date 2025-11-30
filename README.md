@@ -1,2 +1,2 @@
 # Sign-Language-Detection
-A Python-based Sign Language Detection system that identifies hand gestures from images or live camera input
+This project detects sign-language hand gestures using Python, OpenCV, and machine learning. It processes hand images in real time and classifies them using a trained ML model. The system aims to bridge communication gaps for hearing-impaired individuals.
